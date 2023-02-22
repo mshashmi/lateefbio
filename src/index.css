@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen","Poppins",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  /* cursor: url('https://res.cloudinary.com/dvkugaw3b/image/upload/v1641562028/cursor_ad12rf.png'), auto; */
+  cursor: url("./assets/images/cursor.png"), auto;
+  }
+  
+* {
+  box-sizing: border-box;
+  text-align: justify;
+  font-family: "poppins";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
